@@ -56,4 +56,4 @@ jobs:
           app-name: 'rockaway-porto'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_59247722C7CC4496A75668AF9FE64652 }}
